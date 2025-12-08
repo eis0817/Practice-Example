@@ -1,4 +1,4 @@
-함수의 실행 순서
+//함수의 실행 순서
 // function takeOrder() {
 //   console.log('주문 접수 완료');
 // }
