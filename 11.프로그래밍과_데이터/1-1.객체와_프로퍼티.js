@@ -1,4 +1,5 @@
 // 객체, key(property)-value
+
 const myComputer = {
   manufacturer: 'Apple',
   modelName: 'MacBook M1 Pro',
